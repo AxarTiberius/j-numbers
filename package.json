@@ -1,0 +1,19 @@
+{
+  "name": "j_numbers",
+  "version": "0.0.0",
+  "description": "Finding the correlation between EVE Online J-systems and real celestial bodies",
+  "main": "generate-points.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node generate-points.js",
+    "start": "./node_modules/.bin/static -p 3000 -a 0.0.0.0"
+  },
+  "author": "Axar Tiberius",
+  "license": "MIT",
+  "devDependencies": {
+    "sqlite3": "^5.0.2"
+  },
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
