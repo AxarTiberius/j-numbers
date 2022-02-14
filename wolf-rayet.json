@@ -1,7 +1,7 @@
 [
   {
     "target": {
-      "name": "W0"
+      "name": "WR0"
     },
     "ra": {
       "decimal": 122.3920005778
@@ -10,5 +10,29 @@
       "decimal": -41.951205
     },
     "html": "<a href=\"https://en.wikipedia.org/wiki/Gamma_Velorum\" target=\"_blank\">Gamma Velorum</a>"
+  },
+  {
+    "target": {
+      "name": "WR1"
+    },
+    "ra": {
+      "decimal": 197.0317904889
+    },
+    "dec": {
+      "decimal": -60.40965875
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Theta_Muscae\" target=\"_blank\">Theta Muscae</a>"
+  },
+  {
+    "target": {
+      "name": "WR2"
+    },
+    "ra": {
+      "decimal": 84.6884
+    },
+    "dec": {
+      "decimal": -67.487875
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/R136a1\" target=\"_blank\">R136a1</a>"
   }
 ]
