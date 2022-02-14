@@ -9,7 +9,7 @@
     "dec": {
       "decimal": -41.951205
     },
-    "html": "<a href=\"https://en.wikipedia.org/wiki/Gamma_Velorum\" target=\"_blank\">Gamma Velorum</a>"
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Gamma_Velorum\" target=\"_blank\">Gamma Velorum</a><br>J080932"
   },
   {
     "target": {
@@ -21,7 +21,7 @@
     "dec": {
       "decimal": -60.40965875
     },
-    "html": "<a href=\"https://en.wikipedia.org/wiki/Theta_Muscae\" target=\"_blank\">Theta Muscae</a>"
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Theta_Muscae\" target=\"_blank\">Theta Muscae</a><br>J130807"
   },
   {
     "target": {
@@ -33,6 +33,66 @@
     "dec": {
       "decimal": -67.487875
     },
-    "html": "<a href=\"https://en.wikipedia.org/wiki/R136a1\" target=\"_blank\">R136a1</a>"
+    "html": "<a href=\"https://en.wikipedia.org/wiki/R136a1\" target=\"_blank\">R136a1</a><br>J053842"
+  },
+  {
+    "target": {
+      "name": "WR3"
+    },
+    "ra": {
+      "decimal": 302.56308
+    },
+    "dec": {
+      "decimal": 38.646125
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_134\" target=\"_blank\">WR 134</a><br>J201014"
+  },
+  {
+    "target": {
+      "name": "WR4"
+    },
+    "ra": {
+      "decimal": 302.9878990667
+    },
+    "dec": {
+      "decimal": 38.96055125
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_135\" target=\"_blank\">WR 135</a><br>J201154"
+  },
+  {
+    "target": {
+      "name": "WR5"
+    },
+    "ra": {
+      "decimal": 303.6411852889
+    },
+    "dec": {
+      "decimal": 45.9149925
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_137\" target=\"_blank\">WR 137</a><br>J201432"
+  },
+  {
+    "target": {
+      "name": "WR6"
+    },
+    "ra": {
+      "decimal": 10.8762145333
+    },
+    "dec": {
+      "decimal": 75.3975045833
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_1\" target=\"_blank\">WR 1</a><br>J004328"
+  },
+  {
+    "target": {
+      "name": "WR7"
+    },
+    "ra": {
+      "decimal": 16.3522860444
+    },
+    "dec": {
+      "decimal": 66.3290216667
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_2\" target=\"_blank\">WR 2</a><br>J010523"
   }
 ]

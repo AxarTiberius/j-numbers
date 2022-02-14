@@ -2,8 +2,9 @@ var sqlite3 = require('sqlite3')
 
 //var hip = new sqlite3.Database('hip.sqlite')
 //var wds = new sqlite3.Database('wds.sqlite')
-var systems = new sqlite3.Database('eve-systems.sqlite')
+//var systems = new sqlite3.Database('eve-systems.sqlite')
 
+var anoikis = require('./anoikis.json')
 var fs = require('fs')
 var out = './j-numbers.json'
 
@@ -15,10 +16,8 @@ function pad (n, width, z) {
 
 var points = []
 
-systems.each("SELECT * FROM mapSolarSystems ORDER BY solarSystemName ASC", function (err, solarSystem) {
-  if (err) throw err
-
-  var JMatch = solarSystem.solarSystemName.match(/^J(\d{2})(\d{2})(\d{2}|[\-\+]\d)$/)
+Object.keys(anoikis.systems).forEach(function (solarSystemName) {
+  var JMatch = solarSystemName.match(/^J(\d{2})(\d{2})(\d{2}|[\-\+]\d)$/)
   if (!JMatch) {
     return
   }
@@ -60,15 +59,12 @@ systems.each("SELECT * FROM mapSolarSystems ORDER BY solarSystemName ASC", funct
     dec: {
       decimal: 0
     },
-    html: '<a href="http://anoik.is/systems/' + solarSystem.solarSystemName + '" target="_blank">' + solarSystem.solarSystemName + '</a>'
+    html: '<a href="http://anoik.is/systems/' + solarSystemName + '" target="_blank">' + solarSystemName + '</a>'
   })
-}, function (err, count) {
-  if (err) throw err
-
-  console.log('found', points.length, 'J-systems')
-  var str = JSON.stringify(points, null, 2)
-  fs.writeFileSync(out, str)
-
-  console.log('wrote', out)
-  systems.close()
 })
+
+console.log('found', points.length, 'J-systems')
+var str = JSON.stringify(points, null, 2)
+fs.writeFileSync(out, str)
+
+console.log('wrote', out)
