@@ -11,6 +11,7 @@
   "author": "Axar Tiberius",
   "license": "MIT",
   "devDependencies": {
+    "async": "^3.2.3",
     "sqlite3": "^5.0.2"
   },
   "dependencies": {
