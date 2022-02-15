@@ -19,6 +19,8 @@ async.parallel([
     var i = 0
     var rows = [], points = []
     var out = './custom-objects.json'
+    var d_out = './custom-objects-denormalized.json'
+    var d_points = []
     parser.on('readable', function() {
       let record;
       while ((record = parser.read()) !== null) {
@@ -41,11 +43,27 @@ async.parallel([
           html: '<a href="' + row.url + '" target="_blank">' + row.name + '</a> (' + row.type + ')',
           colour: 'rgb(179,0,255)'
         })
+        d_points.push({
+          target: {
+            name: 'O' + points.length
+          },
+          ra: {
+            decimal: Number(row.ra_dec)
+          },
+          dec: {
+            decimal: Number(row.dec_dec)
+          },
+          html: '<a href="' + row.url + '" target="_blank">' + row.name + '</a> (' + row.type + ')',
+          colour: 'rgb(179,0,255)'
+        })
       })
       console.log('found', points.length, 'Custom objects')
       var str = JSON.stringify(points, null, 2)
       fs.writeFileSync(out, str)
       console.log('wrote', out)
+      str = JSON.stringify(d_points, null, 2)
+      fs.writeFileSync(d_out, str)
+      console.log('wrote', d_out)
       cb()
     })
     parser.once('error', function(err) {
@@ -58,7 +76,8 @@ async.parallel([
   },
   function (cb) {
     var out = './red-giant.json'
-    var points = []
+    var d_out = './red-giant-denormalized.json'
+    var points = [], d_points = []
     hip.each("SELECT HIP, RAhms, DEdms, RAdeg, DEdeg, VMag, HvarType, CCDM, SpType FROM hipparcos_full WHERE (SpType LIKE 'M%Ia%' OR SpType LIKE 'M%Ib%')", function (err, row) {
       if (err) return
       points.push({
@@ -75,18 +94,35 @@ async.parallel([
         html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a> (Red Giant)',
         colour: 'rgb(255,50,50)'
       })
+      d_points.push({
+        target: {
+          name: 'R' + points.length
+        },
+        ra: {
+          decimal: row.RAdeg
+        },
+        dec: {
+          decimal: row.DEdeg
+        },
+        html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a> (Red Giant)',
+        colour: 'rgb(255,50,50)'
+      })
     }, function (err, count) {
       if (err) return cb(err)
       console.log('found', points.length, 'Red Giant stars')
       var str = JSON.stringify(points, null, 2)
       fs.writeFileSync(out, str)
       console.log('wrote', out)
+      str = JSON.stringify(d_points, null, 2)
+      fs.writeFileSync(d_out, str)
+      console.log('wrote', d_out)
       cb()
     })
   },
   function (cb) {
     var out = './wolf-rayet.json'
-    var points = []
+    var d_out = './wolf-rayet-denormalized.json'
+    var points = [], d_points = []
     var hip = new sqlite3.Database('hip.sqlite')
     hip.each("SELECT * FROM hipparcos_full WHERE SpType LIKE 'W%'", function (err, row) {
       if (err) return
@@ -98,8 +134,20 @@ async.parallel([
           decimal: row.RAdeg
         },
         dec: {
-          decimal: -1,
-          // decimal: row.DEdeg
+          decimal: -1
+        },
+        html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a> (Wolf-Rayet)',
+        colour: 'rgb(255,255,50)'
+      })
+      d_points.push({
+        target: {
+          name: 'W' + points.length
+        },
+        ra: {
+          decimal: row.RAdeg
+        },
+        dec: {
+          decimal: row.DEdeg
         },
         html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a> (Wolf-Rayet)',
         colour: 'rgb(255,255,50)'
@@ -110,13 +158,17 @@ async.parallel([
       var str = JSON.stringify(points, null, 2)
       fs.writeFileSync(out, str)
       console.log('wrote', out)
+      str = JSON.stringify(d_points, null, 2)
+      fs.writeFileSync(d_out, str)
+      console.log('wrote', d_out)
       cb()
     })
   },
   function (cb) {
     var out = './j-numbers.json'
+    var d_out = './j-numbers-denormalized.json'
     var anoikis = require('./anoikis.json')
-    var points = []
+    var points = [], d_points = []
 
     Object.keys(anoikis.systems).forEach(function (solarSystemName) {
       var JMatch = solarSystemName.match(/^J(\d{2})(\d{2})(\d{2}|[\-\+]\d)$/)
@@ -190,12 +242,39 @@ async.parallel([
         html: '<a href="http://anoik.is/systems/' + solarSystemName + '" target="_blank">' + solarSystemName + '</a> (' + system.wormholeClass.toUpperCase() + ')' + (system.effectName ? '<br>' + system.effectName : ''),
         colour
       })
+      var dec = 0
+      switch (solarSystemName) {
+        case 'J055520':
+          // SENTINEL
+          dec = 7.2425
+          break;
+        case 'J164710':
+          // VIDETTE
+          dec = -31.93
+          break;
+      }
+      d_points.push({
+        target: {
+          name: 'J' + points.length
+        },
+        ra: {
+          decimal: (Number(h) * 15) + (Number(m) * (15/60)) + (Number(s) * (15/60/60))
+        },
+        dec: {
+          decimal: dec
+        },
+        html: '<a href="http://anoik.is/systems/' + solarSystemName + '" target="_blank">' + solarSystemName + '</a> (' + system.wormholeClass.toUpperCase() + ')' + (system.effectName ? '<br>' + system.effectName : ''),
+        colour
+      })
     })
 
     console.log('found', points.length, 'J-systems')
     var str = JSON.stringify(points, null, 2)
     fs.writeFileSync(out, str)
     console.log('wrote', out)
+    str = JSON.stringify(d_points, null, 2)
+    fs.writeFileSync(d_out, str)
+    console.log('wrote', d_out)
     cb()
   }
 ], function (err) {
