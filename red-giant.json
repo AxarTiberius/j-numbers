@@ -1,0 +1,1237 @@
+[
+  {
+    "target": {
+      "name": "R0"
+    },
+    "ra": {
+      "decimal": 2.40151993
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+779\" target=\"_blank\">HIP 779</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R1"
+    },
+    "ra": {
+      "decimal": 5.44264511
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+1728\" target=\"_blank\">HIP 1728</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R2"
+    },
+    "ra": {
+      "decimal": 13.77176755
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+4298\" target=\"_blank\">HIP 4298</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R3"
+    },
+    "ra": {
+      "decimal": 19.97341572
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+6231\" target=\"_blank\">HIP 6231</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R4"
+    },
+    "ra": {
+      "decimal": 25.76131848
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+8025\" target=\"_blank\">HIP 8025</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R5"
+    },
+    "ra": {
+      "decimal": 29.62046939
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+9211\" target=\"_blank\">HIP 9211</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R6"
+    },
+    "ra": {
+      "decimal": 30.78899824
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+9582\" target=\"_blank\">HIP 9582</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R7"
+    },
+    "ra": {
+      "decimal": 31.80023348
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+9886\" target=\"_blank\">HIP 9886</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R8"
+    },
+    "ra": {
+      "decimal": 33.80540593
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+10489\" target=\"_blank\">HIP 10489</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R9"
+    },
+    "ra": {
+      "decimal": 34.84115997
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+10829\" target=\"_blank\">HIP 10829</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R10"
+    },
+    "ra": {
+      "decimal": 35.09359884
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+10904\" target=\"_blank\">HIP 10904</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R11"
+    },
+    "ra": {
+      "decimal": 35.42671019
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+10995\" target=\"_blank\">HIP 10995</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R12"
+    },
+    "ra": {
+      "decimal": 35.71546893
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+11093\" target=\"_blank\">HIP 11093</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R13"
+    },
+    "ra": {
+      "decimal": 36.34108967
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+11284\" target=\"_blank\">HIP 11284</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R14"
+    },
+    "ra": {
+      "decimal": 39.60591715
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+12302\" target=\"_blank\">HIP 12302</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R15"
+    },
+    "ra": {
+      "decimal": 39.96016848
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+12416\" target=\"_blank\">HIP 12416</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R16"
+    },
+    "ra": {
+      "decimal": 42.28684829
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+13151\" target=\"_blank\">HIP 13151</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R17"
+    },
+    "ra": {
+      "decimal": 42.6578848
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+13262\" target=\"_blank\">HIP 13262</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R18"
+    },
+    "ra": {
+      "decimal": 42.76644677
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+13290\" target=\"_blank\">HIP 13290</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R19"
+    },
+    "ra": {
+      "decimal": 46.91877941
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+14537\" target=\"_blank\">HIP 14537</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R20"
+    },
+    "ra": {
+      "decimal": 56.07760429
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+17447\" target=\"_blank\">HIP 17447</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R21"
+    },
+    "ra": {
+      "decimal": 59.50720862
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+18543\" target=\"_blank\">HIP 18543</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R22"
+    },
+    "ra": {
+      "decimal": 63.40320555
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+19722\" target=\"_blank\">HIP 19722</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R23"
+    },
+    "ra": {
+      "decimal": 71.89827457
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+22261\" target=\"_blank\">HIP 22261</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R24"
+    },
+    "ra": {
+      "decimal": 74.01404745
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+22928\" target=\"_blank\">HIP 22928</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R25"
+    },
+    "ra": {
+      "decimal": 81.79257511
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+25500\" target=\"_blank\">HIP 25500</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R26"
+    },
+    "ra": {
+      "decimal": 83.0531302
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+25945\" target=\"_blank\">HIP 25945</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R27"
+    },
+    "ra": {
+      "decimal": 85.17520877
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+26718\" target=\"_blank\">HIP 26718</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R28"
+    },
+    "ra": {
+      "decimal": 88.79287161
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+27989\" target=\"_blank\">HIP 27989</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R29"
+    },
+    "ra": {
+      "decimal": 92.96422435
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+29416\" target=\"_blank\">HIP 29416</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R30"
+    },
+    "ra": {
+      "decimal": 92.98437946
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+29425\" target=\"_blank\">HIP 29425</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R31"
+    },
+    "ra": {
+      "decimal": 93.07957899
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+29450\" target=\"_blank\">HIP 29450</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R32"
+    },
+    "ra": {
+      "decimal": 95.20139441
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+30162\" target=\"_blank\">HIP 30162</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R33"
+    },
+    "ra": {
+      "decimal": 105.52805013
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+33891\" target=\"_blank\">HIP 33891</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R34"
+    },
+    "ra": {
+      "decimal": 111.05832404
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+35915\" target=\"_blank\">HIP 35915</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R35"
+    },
+    "ra": {
+      "decimal": 112.04840993
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+36288\" target=\"_blank\">HIP 36288</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R36"
+    },
+    "ra": {
+      "decimal": 112.76866761
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+36547\" target=\"_blank\">HIP 36547</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R37"
+    },
+    "ra": {
+      "decimal": 115.26096203
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+37433\" target=\"_blank\">HIP 37433</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R38"
+    },
+    "ra": {
+      "decimal": 119.47537366
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+38923\" target=\"_blank\">HIP 38923</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R39"
+    },
+    "ra": {
+      "decimal": 127.62416525
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+41726\" target=\"_blank\">HIP 41726</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R40"
+    },
+    "ra": {
+      "decimal": 140.43041783
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+45915\" target=\"_blank\">HIP 45915</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R41"
+    },
+    "ra": {
+      "decimal": 140.46224949
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+45924\" target=\"_blank\">HIP 45924</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R42"
+    },
+    "ra": {
+      "decimal": 156.56519454
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+51087\" target=\"_blank\">HIP 51087</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R43"
+    },
+    "ra": {
+      "decimal": 161.19648645
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52562\" target=\"_blank\">HIP 52562</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R44"
+    },
+    "ra": {
+      "decimal": 162.60961283
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52991\" target=\"_blank\">HIP 52991</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R45"
+    },
+    "ra": {
+      "decimal": 163.52608883
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+53300\" target=\"_blank\">HIP 53300</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R46"
+    },
+    "ra": {
+      "decimal": 165.7756803
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54021\" target=\"_blank\">HIP 54021</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R47"
+    },
+    "ra": {
+      "decimal": 166.12152065
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54130\" target=\"_blank\">HIP 54130</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R48"
+    },
+    "ra": {
+      "decimal": 169.83815204
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+55283\" target=\"_blank\">HIP 55283</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R49"
+    },
+    "ra": {
+      "decimal": 171.74861891
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+55863\" target=\"_blank\">HIP 55863</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R50"
+    },
+    "ra": {
+      "decimal": 173.93734196
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+56556\" target=\"_blank\">HIP 56556</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R51"
+    },
+    "ra": {
+      "decimal": 173.94633124
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+56563\" target=\"_blank\">HIP 56563</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R52"
+    },
+    "ra": {
+      "decimal": 174.14520165
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+56619\" target=\"_blank\">HIP 56619</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R53"
+    },
+    "ra": {
+      "decimal": 175.45588683
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+57057\" target=\"_blank\">HIP 57057</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R54"
+    },
+    "ra": {
+      "decimal": 177.92892967
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+57843\" target=\"_blank\">HIP 57843</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R55"
+    },
+    "ra": {
+      "decimal": 180.65578578
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+58719\" target=\"_blank\">HIP 58719</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R56"
+    },
+    "ra": {
+      "decimal": 183.30403548
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+59588\" target=\"_blank\">HIP 59588</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R57"
+    },
+    "ra": {
+      "decimal": 184.44064878
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+59943\" target=\"_blank\">HIP 59943</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R58"
+    },
+    "ra": {
+      "decimal": 187.52817199
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+60998\" target=\"_blank\">HIP 60998</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R59"
+    },
+    "ra": {
+      "decimal": 193.42224084
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+62918\" target=\"_blank\">HIP 62918</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R60"
+    },
+    "ra": {
+      "decimal": 199.86582421
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+65006\" target=\"_blank\">HIP 65006</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R61"
+    },
+    "ra": {
+      "decimal": 209.36705703
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+68178\" target=\"_blank\">HIP 68178</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R62"
+    },
+    "ra": {
+      "decimal": 237.69427714
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+77619\" target=\"_blank\">HIP 77619</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R63"
+    },
+    "ra": {
+      "decimal": 242.11701282
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+79072\" target=\"_blank\">HIP 79072</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R64"
+    },
+    "ra": {
+      "decimal": 242.90853829
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+79349\" target=\"_blank\">HIP 79349</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R65"
+    },
+    "ra": {
+      "decimal": 244.31391116
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+79804\" target=\"_blank\">HIP 79804</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R66"
+    },
+    "ra": {
+      "decimal": 247.35194804
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+80763\" target=\"_blank\">HIP 80763</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R67"
+    },
+    "ra": {
+      "decimal": 251.83227018
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+82172\" target=\"_blank\">HIP 82172</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R68"
+    },
+    "ra": {
+      "decimal": 255.23212282
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+83250\" target=\"_blank\">HIP 83250</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R69"
+    },
+    "ra": {
+      "decimal": 263.42819351
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+85934\" target=\"_blank\">HIP 85934</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R70"
+    },
+    "ra": {
+      "decimal": 268.00302695
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+87433\" target=\"_blank\">HIP 87433</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R71"
+    },
+    "ra": {
+      "decimal": 271.03721828
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88491\" target=\"_blank\">HIP 88491</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R72"
+    },
+    "ra": {
+      "decimal": 271.50795297
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88657\" target=\"_blank\">HIP 88657</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R73"
+    },
+    "ra": {
+      "decimal": 275.8449656
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+90115\" target=\"_blank\">HIP 90115</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R74"
+    },
+    "ra": {
+      "decimal": 285.07941783
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+93309\" target=\"_blank\">HIP 93309</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R75"
+    },
+    "ra": {
+      "decimal": 294.85556676
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+96688\" target=\"_blank\">HIP 96688</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R76"
+    },
+    "ra": {
+      "decimal": 295.51722804
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+96919\" target=\"_blank\">HIP 96919</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R77"
+    },
+    "ra": {
+      "decimal": 295.90739937
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+97068\" target=\"_blank\">HIP 97068</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R78"
+    },
+    "ra": {
+      "decimal": 297.64161019
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+97630\" target=\"_blank\">HIP 97630</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R79"
+    },
+    "ra": {
+      "decimal": 300.01378061
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+98438\" target=\"_blank\">HIP 98438</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R80"
+    },
+    "ra": {
+      "decimal": 301.22255255
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+98890\" target=\"_blank\">HIP 98890</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R81"
+    },
+    "ra": {
+      "decimal": 301.27802072
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+98915\" target=\"_blank\">HIP 98915</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R82"
+    },
+    "ra": {
+      "decimal": 305.41062682
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+100404\" target=\"_blank\">HIP 100404</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R83"
+    },
+    "ra": {
+      "decimal": 307.21080422
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+101023\" target=\"_blank\">HIP 101023</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R84"
+    },
+    "ra": {
+      "decimal": 315.60085155
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+103828\" target=\"_blank\">HIP 103828</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R85"
+    },
+    "ra": {
+      "decimal": 318.19687474
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+104719\" target=\"_blank\">HIP 104719</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R86"
+    },
+    "ra": {
+      "decimal": 325.87689561
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+107259\" target=\"_blank\">HIP 107259</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R87"
+    },
+    "ra": {
+      "decimal": 337.4393561
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+111043\" target=\"_blank\">HIP 111043</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R88"
+    },
+    "ra": {
+      "decimal": 341.93095859
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+112545\" target=\"_blank\">HIP 112545</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R89"
+    },
+    "ra": {
+      "decimal": 352.61407069
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+116018\" target=\"_blank\">HIP 116018</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R90"
+    },
+    "ra": {
+      "decimal": 353.36703214
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+116264\" target=\"_blank\">HIP 116264</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R91"
+    },
+    "ra": {
+      "decimal": 356.0136927
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+117078\" target=\"_blank\">HIP 117078</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R92"
+    },
+    "ra": {
+      "decimal": 358.06089542
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+117703\" target=\"_blank\">HIP 117703</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R93"
+    },
+    "ra": {
+      "decimal": 358.23433653
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+117763\" target=\"_blank\">HIP 117763</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  },
+  {
+    "target": {
+      "name": "R94"
+    },
+    "ra": {
+      "decimal": 358.6943635
+    },
+    "dec": {
+      "decimal": 1
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+117887\" target=\"_blank\">HIP 117887</a> (Red Giant)",
+    "colour": "rgb(255,50,50)"
+  }
+]

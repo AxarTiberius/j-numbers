@@ -1357,7 +1357,7 @@ VirtualSky.prototype.createSky = function(){
 								ra: data[i].ra.decimal,
 								dec: data[i].dec.decimal,
 								label: data[i].target.name,
-								colour: this.col.pointers,
+								colour: data[i].colour || this.col.pointers,
 								html: data[i].html
 							});
 						}

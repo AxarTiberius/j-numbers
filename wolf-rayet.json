@@ -7,9 +7,10 @@
       "decimal": 3.25429565
     },
     "dec": {
-      "decimal": 72.52195758
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+1041\" target=\"_blank\">HIP 1041</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+1041\" target=\"_blank\">HIP 1041</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -19,9 +20,10 @@
       "decimal": 10.8683367
     },
     "dec": {
-      "decimal": 64.75983074
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+3415\" target=\"_blank\">HIP 3415</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+3415\" target=\"_blank\">HIP 3415</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -31,9 +33,10 @@
       "decimal": 16.34595814
     },
     "dec": {
-      "decimal": 60.42191687
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+5100\" target=\"_blank\">HIP 5100</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+5100\" target=\"_blank\">HIP 5100</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -43,9 +46,10 @@
       "decimal": 24.73180032
     },
     "dec": {
-      "decimal": 58.15630156
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+7681\" target=\"_blank\">HIP 7681</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+7681\" target=\"_blank\">HIP 7681</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -55,9 +59,10 @@
       "decimal": 40.29865008
     },
     "dec": {
-      "decimal": 56.73047603
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+12527\" target=\"_blank\">HIP 12527</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+12527\" target=\"_blank\">HIP 12527</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -67,9 +72,10 @@
       "decimal": 43.04858932
     },
     "dec": {
-      "decimal": 56.93531641
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+13380\" target=\"_blank\">HIP 13380</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+13380\" target=\"_blank\">HIP 13380</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -79,9 +85,10 @@
       "decimal": 84.25720205
     },
     "dec": {
-      "decimal": -73.69908204
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+26380\" target=\"_blank\">HIP 26380</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+26380\" target=\"_blank\">HIP 26380</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -91,9 +98,10 @@
       "decimal": 103.55436047
     },
     "dec": {
-      "decimal": -23.92834798
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+33165\" target=\"_blank\">HIP 33165</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+33165\" target=\"_blank\">HIP 33165</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -103,9 +111,10 @@
       "decimal": 109.62138909
     },
     "dec": {
-      "decimal": -13.2170937
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+35378\" target=\"_blank\">HIP 35378</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+35378\" target=\"_blank\">HIP 35378</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -115,9 +124,10 @@
       "decimal": 116.24259747
     },
     "dec": {
-      "decimal": -31.90821897
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+37791\" target=\"_blank\">HIP 37791</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+37791\" target=\"_blank\">HIP 37791</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -127,9 +137,10 @@
       "decimal": 116.46000285
     },
     "dec": {
-      "decimal": -34.33014732
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+37876\" target=\"_blank\">HIP 37876</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+37876\" target=\"_blank\">HIP 37876</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -139,9 +150,10 @@
       "decimal": 119.94269435
     },
     "dec": {
-      "decimal": -28.73419645
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+39086\" target=\"_blank\">HIP 39086</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+39086\" target=\"_blank\">HIP 39086</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -151,9 +163,10 @@
       "decimal": 122.38314727
     },
     "dec": {
-      "decimal": -47.33661177
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+39953\" target=\"_blank\">HIP 39953</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+39953\" target=\"_blank\">HIP 39953</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -163,9 +176,10 @@
       "decimal": 133.746546
     },
     "dec": {
-      "decimal": -47.59241876
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+43778\" target=\"_blank\">HIP 43778</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+43778\" target=\"_blank\">HIP 43778</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -175,9 +189,10 @@
       "decimal": 138.29905838
     },
     "dec": {
-      "decimal": -50.10709936
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+45237\" target=\"_blank\">HIP 45237</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+45237\" target=\"_blank\">HIP 45237</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -187,9 +202,10 @@
       "decimal": 148.72047416
     },
     "dec": {
-      "decimal": -57.72731091
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+48617\" target=\"_blank\">HIP 48617</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+48617\" target=\"_blank\">HIP 48617</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -199,9 +215,10 @@
       "decimal": 152.63299271
     },
     "dec": {
-      "decimal": -60.64512389
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+49838\" target=\"_blank\">HIP 49838</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+49838\" target=\"_blank\">HIP 49838</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -211,9 +228,10 @@
       "decimal": 154.25950318
     },
     "dec": {
-      "decimal": -57.91302856
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+50368\" target=\"_blank\">HIP 50368</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+50368\" target=\"_blank\">HIP 50368</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -223,9 +241,10 @@
       "decimal": 156.63089658
     },
     "dec": {
-      "decimal": -58.64061326
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+51109\" target=\"_blank\">HIP 51109</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+51109\" target=\"_blank\">HIP 51109</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -235,9 +254,10 @@
       "decimal": 160.32301986
     },
     "dec": {
-      "decimal": -59.67692226
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52308\" target=\"_blank\">HIP 52308</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52308\" target=\"_blank\">HIP 52308</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -247,9 +267,10 @@
       "decimal": 160.40971779
     },
     "dec": {
-      "decimal": -58.77187678
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52331\" target=\"_blank\">HIP 52331</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52331\" target=\"_blank\">HIP 52331</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -259,9 +280,10 @@
       "decimal": 160.96777327
     },
     "dec": {
-      "decimal": -60.117788
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52488\" target=\"_blank\">HIP 52488</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+52488\" target=\"_blank\">HIP 52488</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -271,9 +293,10 @@
       "decimal": 163.43677231
     },
     "dec": {
-      "decimal": -59.51297006
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+53274\" target=\"_blank\">HIP 53274</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+53274\" target=\"_blank\">HIP 53274</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -283,9 +306,10 @@
       "decimal": 166.57169314
     },
     "dec": {
-      "decimal": -65.50978461
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54283\" target=\"_blank\">HIP 54283</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54283\" target=\"_blank\">HIP 54283</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -295,9 +319,10 @@
       "decimal": 167.51703134
     },
     "dec": {
-      "decimal": -60.97915858
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54574\" target=\"_blank\">HIP 54574</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54574\" target=\"_blank\">HIP 54574</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -307,9 +332,10 @@
       "decimal": null
     },
     "dec": {
-      "decimal": null
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54948\" target=\"_blank\">HIP 54948</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+54948\" target=\"_blank\">HIP 54948</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -319,9 +345,10 @@
       "decimal": 181.32802929
     },
     "dec": {
-      "decimal": -62.05281813
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+58954\" target=\"_blank\">HIP 58954</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+58954\" target=\"_blank\">HIP 58954</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -331,9 +358,10 @@
       "decimal": 190.96252914
     },
     "dec": {
-      "decimal": -63.0874472
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+62115\" target=\"_blank\">HIP 62115</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+62115\" target=\"_blank\">HIP 62115</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -343,9 +371,10 @@
       "decimal": 197.02982892
     },
     "dec": {
-      "decimal": -65.30601741
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+64094\" target=\"_blank\">HIP 64094</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+64094\" target=\"_blank\">HIP 64094</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -355,9 +384,10 @@
       "decimal": 199.61665718
     },
     "dec": {
-      "decimal": -58.13710091
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+64929\" target=\"_blank\">HIP 64929</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+64929\" target=\"_blank\">HIP 64929</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -367,9 +397,10 @@
       "decimal": 202.72190959
     },
     "dec": {
-      "decimal": -62.08106772
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+65925\" target=\"_blank\">HIP 65925</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+65925\" target=\"_blank\">HIP 65925</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -379,9 +410,10 @@
       "decimal": 203.37553797
     },
     "dec": {
-      "decimal": -62.3169995
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+66142\" target=\"_blank\">HIP 66142</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+66142\" target=\"_blank\">HIP 66142</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -391,9 +423,10 @@
       "decimal": 205.81818989
     },
     "dec": {
-      "decimal": -67.40136906
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+66948\" target=\"_blank\">HIP 66948</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+66948\" target=\"_blank\">HIP 66948</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -403,9 +436,10 @@
       "decimal": 213.26472458
     },
     "dec": {
-      "decimal": -65.44796517
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+69445\" target=\"_blank\">HIP 69445</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+69445\" target=\"_blank\">HIP 69445</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -415,9 +449,10 @@
       "decimal": 228.74051037
     },
     "dec": {
-      "decimal": -59.84172368
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+74634\" target=\"_blank\">HIP 74634</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+74634\" target=\"_blank\">HIP 74634</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -427,9 +462,10 @@
       "decimal": 231.04713983
     },
     "dec": {
-      "decimal": -62.67709306
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+75377\" target=\"_blank\">HIP 75377</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+75377\" target=\"_blank\">HIP 75377</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -439,9 +475,10 @@
       "decimal": 232.43622917
     },
     "dec": {
-      "decimal": -58.58089551
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+75863\" target=\"_blank\">HIP 75863</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+75863\" target=\"_blank\">HIP 75863</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -451,9 +488,10 @@
       "decimal": 240.95563964
     },
     "dec": {
-      "decimal": -62.69328932
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+78689\" target=\"_blank\">HIP 78689</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+78689\" target=\"_blank\">HIP 78689</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -463,9 +501,10 @@
       "decimal": 253.08020506
     },
     "dec": {
-      "decimal": -41.85451309
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+82543\" target=\"_blank\">HIP 82543</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+82543\" target=\"_blank\">HIP 82543</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -475,9 +514,10 @@
       "decimal": 253.58208193
     },
     "dec": {
-      "decimal": -41.81986408
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+82706\" target=\"_blank\">HIP 82706</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+82706\" target=\"_blank\">HIP 82706</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -487,9 +527,10 @@
       "decimal": 257.25390032
     },
     "dec": {
-      "decimal": -56.91327096
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+83916\" target=\"_blank\">HIP 83916</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+83916\" target=\"_blank\">HIP 83916</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -499,9 +540,10 @@
       "decimal": 259.59609225
     },
     "dec": {
-      "decimal": -34.40849679
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+84655\" target=\"_blank\">HIP 84655</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+84655\" target=\"_blank\">HIP 84655</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -511,9 +553,10 @@
       "decimal": 259.75218044
     },
     "dec": {
-      "decimal": -38.81422726
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+84716\" target=\"_blank\">HIP 84716</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+84716\" target=\"_blank\">HIP 84716</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -523,9 +566,10 @@
       "decimal": 259.87458917
     },
     "dec": {
-      "decimal": -45.6399567
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+84757\" target=\"_blank\">HIP 84757</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+84757\" target=\"_blank\">HIP 84757</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -535,9 +579,10 @@
       "decimal": 264.22343016
     },
     "dec": {
-      "decimal": -34.04354523
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+86197\" target=\"_blank\">HIP 86197</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+86197\" target=\"_blank\">HIP 86197</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -547,9 +592,10 @@
       "decimal": 270.42976685
     },
     "dec": {
-      "decimal": -32.7153209
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88287\" target=\"_blank\">HIP 88287</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88287\" target=\"_blank\">HIP 88287</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -559,9 +605,10 @@
       "decimal": 271.35723001
     },
     "dec": {
-      "decimal": -23.00564291
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88597\" target=\"_blank\">HIP 88597</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88597\" target=\"_blank\">HIP 88597</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -571,9 +618,10 @@
       "decimal": 271.98733473
     },
     "dec": {
-      "decimal": -19.39912375
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88828\" target=\"_blank\">HIP 88828</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88828\" target=\"_blank\">HIP 88828</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -583,9 +631,10 @@
       "decimal": 272.11861981
     },
     "dec": {
-      "decimal": -21.25310295
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88856\" target=\"_blank\">HIP 88856</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+88856\" target=\"_blank\">HIP 88856</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -595,9 +644,10 @@
       "decimal": 274.05119041
     },
     "dec": {
-      "decimal": -30.86885976
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+89535\" target=\"_blank\">HIP 89535</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+89535\" target=\"_blank\">HIP 89535</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -607,9 +657,10 @@
       "decimal": 274.78068103
     },
     "dec": {
-      "decimal": -11.63309734
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+89769\" target=\"_blank\">HIP 89769</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+89769\" target=\"_blank\">HIP 89769</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -619,9 +670,10 @@
       "decimal": 276.37505541
     },
     "dec": {
-      "decimal": -14.64469601
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+90299\" target=\"_blank\">HIP 90299</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+90299\" target=\"_blank\">HIP 90299</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -631,9 +683,10 @@
       "decimal": 281.05480551
     },
     "dec": {
-      "decimal": -3.79937513
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+91911\" target=\"_blank\">HIP 91911</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+91911\" target=\"_blank\">HIP 91911</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -643,9 +696,10 @@
       "decimal": 285.99593107
     },
     "dec": {
-      "decimal": -4.31718217
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+93626\" target=\"_blank\">HIP 93626</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+93626\" target=\"_blank\">HIP 93626</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -655,9 +709,10 @@
       "decimal": 287.87865299
     },
     "dec": {
-      "decimal": 16.86062483
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+94289\" target=\"_blank\">HIP 94289</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+94289\" target=\"_blank\">HIP 94289</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -667,9 +722,10 @@
       "decimal": 293.68847988
     },
     "dec": {
-      "decimal": 30.51639594
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+96295\" target=\"_blank\">HIP 96295</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+96295\" target=\"_blank\">HIP 96295</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -679,9 +735,10 @@
       "decimal": 296.56642405
     },
     "dec": {
-      "decimal": 28.27197961
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+97281\" target=\"_blank\">HIP 97281</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+97281\" target=\"_blank\">HIP 97281</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -691,9 +748,10 @@
       "decimal": 297.1341537
     },
     "dec": {
-      "decimal": 18.20104002
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+97456\" target=\"_blank\">HIP 97456</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+97456\" target=\"_blank\">HIP 97456</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -703,9 +761,10 @@
       "decimal": 301.48886108
     },
     "dec": {
-      "decimal": 35.78839095
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99002\" target=\"_blank\">HIP 99002</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99002\" target=\"_blank\">HIP 99002</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -715,9 +774,10 @@
       "decimal": 302.55915172
     },
     "dec": {
-      "decimal": 36.17642881
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99377\" target=\"_blank\">HIP 99377</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99377\" target=\"_blank\">HIP 99377</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -727,9 +787,10 @@
       "decimal": 302.97303898
     },
     "dec": {
-      "decimal": 36.19738315
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99525\" target=\"_blank\">HIP 99525</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99525\" target=\"_blank\">HIP 99525</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -739,9 +800,10 @@
       "decimal": 303.02728233
     },
     "dec": {
-      "decimal": 38.35495648
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99546\" target=\"_blank\">HIP 99546</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99546\" target=\"_blank\">HIP 99546</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -751,9 +813,10 @@
       "decimal": 303.63237188
     },
     "dec": {
-      "decimal": 36.66101334
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99769\" target=\"_blank\">HIP 99769</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99769\" target=\"_blank\">HIP 99769</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -763,9 +826,10 @@
       "decimal": 304.25011975
     },
     "dec": {
-      "decimal": 37.42328661
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99982\" target=\"_blank\">HIP 99982</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+99982\" target=\"_blank\">HIP 99982</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -775,9 +839,10 @@
       "decimal": 304.88510217
     },
     "dec": {
-      "decimal": 38.73166436
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+100214\" target=\"_blank\">HIP 100214</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+100214\" target=\"_blank\">HIP 100214</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -787,9 +852,10 @@
       "decimal": 305.11658414
     },
     "dec": {
-      "decimal": 43.85452638
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+100287\" target=\"_blank\">HIP 100287</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+100287\" target=\"_blank\">HIP 100287</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -799,9 +865,10 @@
       "decimal": 305.38221191
     },
     "dec": {
-      "decimal": 36.92022827
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+120155\" target=\"_blank\">HIP 120155</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+120155\" target=\"_blank\">HIP 120155</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -811,9 +878,10 @@
       "decimal": 310.33980818
     },
     "dec": {
-      "decimal": 52.58754776
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+102088\" target=\"_blank\">HIP 102088</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+102088\" target=\"_blank\">HIP 102088</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -823,9 +891,10 @@
       "decimal": 327.75822786
     },
     "dec": {
-      "decimal": 12.62559362
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+107848\" target=\"_blank\">HIP 107848</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+107848\" target=\"_blank\">HIP 107848</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -835,9 +904,10 @@
       "decimal": 334.69003974
     },
     "dec": {
-      "decimal": 56.12608963
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+110154\" target=\"_blank\">HIP 110154</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+110154\" target=\"_blank\">HIP 110154</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -847,9 +917,10 @@
       "decimal": 336.82425986
     },
     "dec": {
-      "decimal": 56.25327574
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+110836\" target=\"_blank\">HIP 110836</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+110836\" target=\"_blank\">HIP 110836</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -859,9 +930,10 @@
       "decimal": 339.22482713
     },
     "dec": {
-      "decimal": 56.90583771
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+111633\" target=\"_blank\">HIP 111633</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+111633\" target=\"_blank\">HIP 111633</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -871,9 +943,10 @@
       "decimal": 345.04219995
     },
     "dec": {
-      "decimal": 60.92734037
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+113569\" target=\"_blank\">HIP 113569</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+113569\" target=\"_blank\">HIP 113569</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -883,9 +956,10 @@
       "decimal": 348.80169682
     },
     "dec": {
-      "decimal": 60.45052754
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+114791\" target=\"_blank\">HIP 114791</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+114791\" target=\"_blank\">HIP 114791</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   },
   {
     "target": {
@@ -895,8 +969,9 @@
       "decimal": 355.8774968
     },
     "dec": {
-      "decimal": 61.93004126
+      "decimal": -1
     },
-    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+117034\" target=\"_blank\">HIP 117034</a>"
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+117034\" target=\"_blank\">HIP 117034</a> (Wolf-Rayet)",
+    "colour": "rgb(255,255,50)"
   }
 ]

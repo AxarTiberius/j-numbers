@@ -1,6 +1,7 @@
 var sqlite3 = require('sqlite3')
 var async = require('async')
 var fs = require('fs')
+var hip = new sqlite3.Database('hip.sqlite')
 
 function pad (n, width, z) {
   z = z || '0';
@@ -8,7 +9,35 @@ function pad (n, width, z) {
   return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
 }
 
-async.series([
+async.parallel([
+  function (cb) {
+    var out = './red-giant.json'
+    var points = []
+    hip.each("SELECT HIP, RAhms, DEdms, RAdeg, DEdeg, VMag, HvarType, CCDM, SpType FROM hipparcos_full WHERE (SpType LIKE 'M%Ia%' OR SpType LIKE 'M%Ib%')", function (err, row) {
+      if (err) return
+      points.push({
+        target: {
+          name: 'R' + points.length
+        },
+        ra: {
+          decimal: row.RAdeg
+        },
+        dec: {
+          decimal: 1
+          // decimal: row.DEdeg
+        },
+        html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a> (Red Giant)',
+        colour: 'rgb(255,50,50)'
+      })
+    }, function (err, count) {
+      if (err) return cb(err)
+      console.log('found', points.length, 'Red Giant stars')
+      var str = JSON.stringify(points, null, 2)
+      fs.writeFileSync(out, str)
+      console.log('wrote', out)
+      cb()
+    })
+  },
   function (cb) {
     var out = './wolf-rayet.json'
     var points = []
@@ -23,16 +52,17 @@ async.series([
           decimal: row.RAdeg
         },
         dec: {
-          decimal: row.DEdeg
+          decimal: -1,
+          // decimal: row.DEdeg
         },
-        html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a>'
+        html: '<a href="https://simbad.u-strasbg.fr/simbad/sim-id?Ident=HIP+' + row.HIP + '" target="_blank">HIP ' + row.HIP + '</a> (Wolf-Rayet)',
+        colour: 'rgb(255,255,50)'
       })
     }, function (err, count) {
       if (err) return cb(err)
       console.log('found', points.length, 'Wolf-Rayet stars')
       var str = JSON.stringify(points, null, 2)
       fs.writeFileSync(out, str)
-
       console.log('wrote', out)
       cb()
     })
@@ -75,6 +105,32 @@ async.series([
         h = pad(newHour, 2)
       }
 
+      var system = anoikis.systems[solarSystemName]
+      var colour = 'rgb(100,100,100)'
+
+      switch (system.effectName) {
+        case 'Cataclysmic Variable':
+          colour = 'rgb(169,0,255)'
+          break;
+        case 'Magnetar':
+          colour = 'rgb(30,211,67)'
+          break;
+        case 'Black Hole':
+          colour = 'rgb(0,0,255)'
+          break;
+        case 'Red Giant':
+          colour = 'rgb(255,0,0)'
+          break;
+        case 'Pulsar':
+          colour = 'rgb(0,255,0)'
+          break;
+        case 'Wolf-Rayet Star':
+          colour = 'rgb(255,255,0)'
+          break;
+        default:
+          colour = 'rgb(100,100,100)'
+      }
+
       points.push({
         target: {
           name: 'J' + points.length
@@ -85,18 +141,19 @@ async.series([
         dec: {
           decimal: 0
         },
-        html: '<a href="http://anoik.is/systems/' + solarSystemName + '" target="_blank">' + solarSystemName + '</a>'
+        html: '<a href="http://anoik.is/systems/' + solarSystemName + '" target="_blank">' + solarSystemName + '</a> (' + system.wormholeClass.toUpperCase() + ')' + (system.effectName ? '<br>' + system.effectName : ''),
+        colour
       })
     })
 
     console.log('found', points.length, 'J-systems')
     var str = JSON.stringify(points, null, 2)
     fs.writeFileSync(out, str)
-
     console.log('wrote', out)
     cb()
   }
 ], function (err) {
   if (err) throw err
+  hip.close()
   console.log('done')
 })
