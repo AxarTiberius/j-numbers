@@ -2,6 +2,7 @@ var sqlite3 = require('sqlite3')
 var async = require('async')
 var fs = require('fs')
 var hip = new sqlite3.Database('hip.sqlite')
+var csv = require('csv')
 
 function pad (n, width, z) {
   z = z || '0';
@@ -10,6 +11,51 @@ function pad (n, width, z) {
 }
 
 async.parallel([
+  function (cb) {
+    var parser = csv.parse({
+      columns: true
+    })
+    var csvStream = fs.createReadStream('./objects.csv', {flags: 'r'})
+    var i = 0
+    var rows = [], points = []
+    var out = './custom-objects.json'
+    parser.on('readable', function() {
+      let record;
+      while ((record = parser.read()) !== null) {
+        rows.push(record)
+      }
+    });
+    parser.on('end', function () {
+      rows.forEach(function (row) {
+        points.push({
+          target: {
+            name: 'O' + points.length
+          },
+          ra: {
+            decimal: Number(row.ra_dec)
+          },
+          dec: {
+            decimal: 2
+            // decimal: row.DEdeg
+          },
+          html: '<a href="' + row.url + '" target="_blank">' + row.name + '</a> (' + row.type + ')',
+          colour: 'rgb(179,0,255)'
+        })
+      })
+      console.log('found', points.length, 'Custom objects')
+      var str = JSON.stringify(points, null, 2)
+      fs.writeFileSync(out, str)
+      console.log('wrote', out)
+      cb()
+    })
+    parser.once('error', function(err) {
+      cb(err);
+    });
+    csvStream.on('end', function () {
+      parser.end()
+    })
+    csvStream.pipe(parser)
+  },
   function (cb) {
     var out = './red-giant.json'
     var points = []

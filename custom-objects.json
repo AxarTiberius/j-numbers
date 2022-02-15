@@ -1,0 +1,1484 @@
+[
+  {
+    "target": {
+      "name": "O0"
+    },
+    "ra": {
+      "decimal": 122.3920005778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Gamma_Velorum\" target=\"_blank\">Gamma Velorum</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O1"
+    },
+    "ra": {
+      "decimal": 197.0317904889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Theta_Muscae\" target=\"_blank\">Theta Muscae</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O2"
+    },
+    "ra": {
+      "decimal": 84.6884
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/R136a1\" target=\"_blank\">R136a1</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O3"
+    },
+    "ra": {
+      "decimal": 84.6688888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Tarantula_Nebula\" target=\"_blank\">Tarantula Nebula</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O4"
+    },
+    "ra": {
+      "decimal": 302.56308
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_134\" target=\"_blank\">WR 134</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O5"
+    },
+    "ra": {
+      "decimal": 302.9878990667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_135\" target=\"_blank\">WR 135</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O6"
+    },
+    "ra": {
+      "decimal": 303.6411852889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_137\" target=\"_blank\">WR 137</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O7"
+    },
+    "ra": {
+      "decimal": 10.8762145333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_1\" target=\"_blank\">WR 1</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O8"
+    },
+    "ra": {
+      "decimal": 16.3522860444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_2\" target=\"_blank\">WR 2</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O9"
+    },
+    "ra": {
+      "decimal": 181.3332012444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/WR_46\" target=\"_blank\">WR 46</a> (Wolf-Rayet)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O10"
+    },
+    "ra": {
+      "decimal": 356.7715022222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/1ES_2344%2B514\" target=\"_blank\">1ES 2344+514</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O11"
+    },
+    "ra": {
+      "decimal": 187.1106666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/TON_618\" target=\"_blank\">Ton 618</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O12"
+    },
+    "ra": {
+      "decimal": 271.7252488889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/3C_371\" target=\"_blank\">3C 371</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O13"
+    },
+    "ra": {
+      "decimal": 61.4686666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/4C_%2B37.11\" target=\"_blank\">4C +37.11</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O14"
+    },
+    "ra": {
+      "decimal": 229.43584
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/AP_Librae\" target=\"_blank\">AP Librae</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O15"
+    },
+    "ra": {
+      "decimal": 4.2877777778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/S5_0014%2B81\" target=\"_blank\">S5 0014+81</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O16"
+    },
+    "ra": {
+      "decimal": 127.9353333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/APM_08279%2B5255\" target=\"_blank\">APM 08279+5255</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O17"
+    },
+    "ra": {
+      "decimal": 233.7537777778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Arp_220\" target=\"_blank\">Arp 220</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O18"
+    },
+    "ra": {
+      "decimal": 201.3726666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Centaurus_A\" target=\"_blank\">Centaurus A</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O19"
+    },
+    "ra": {
+      "decimal": 107.6336371556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=EXO+0706.1%2B5913\" target=\"_blank\">EXO 0706.1+5913</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O20"
+    },
+    "ra": {
+      "decimal": 50.6853333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_1316\" target=\"_blank\">NGC 1316 (Fornax A)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O21"
+    },
+    "ra": {
+      "decimal": 73.1333333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/HE0450-2958\" target=\"_blank\">HE0450-2958</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O22"
+    },
+    "ra": {
+      "decimal": 344.2971111111
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/IC_1459\" target=\"_blank\">IC 1459</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O23"
+    },
+    "ra": {
+      "decimal": 262.0827743111
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=%40351612\" target=\"_blank\">J1728.2+5013</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O24"
+    },
+    "ra": {
+      "decimal": 10.6968888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Andromeda_Galaxy\" target=\"_blank\">Messier 31 (Andromeda Galaxy)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O25"
+    },
+    "ra": {
+      "decimal": 10.6857777778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_32\" target=\"_blank\">Messier 32</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O26"
+    },
+    "ra": {
+      "decimal": 202.4842222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Whirlpool_Galaxy\" target=\"_blank\">Messier 51 (Whirlpool Galaxy)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O27"
+    },
+    "ra": {
+      "decimal": 190.9278133333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_60\" target=\"_blank\">Messier 60</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O28"
+    },
+    "ra": {
+      "decimal": 40.6812044444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_77\" target=\"_blank\">Messier 77</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O29"
+    },
+    "ra": {
+      "decimal": 148.8975555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_81\" target=\"_blank\">Messier 81 (Bode's Galaxy)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O30"
+    },
+    "ra": {
+      "decimal": 186.2666370222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_84\" target=\"_blank\">Messier 84</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O31"
+    },
+    "ra": {
+      "decimal": 187.7196594667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_87\" target=\"_blank\">Messier 87 (Virgo A)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O32"
+    },
+    "ra": {
+      "decimal": 190.014
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Sombrero_Galaxy\" target=\"_blank\">Messier 104 (Sombrero Galaxy)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O33"
+    },
+    "ra": {
+      "decimal": 161.9704444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_105\" target=\"_blank\">Messier 105</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O34"
+    },
+    "ra": {
+      "decimal": 184.7555555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_106\" target=\"_blank\">Messier 106</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O35"
+    },
+    "ra": {
+      "decimal": 173.3673733333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Markarian%20180\" target=\"_blank\">Markarian 180</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O36"
+    },
+    "ra": {
+      "decimal": 166.1213955556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Markarian_421\" target=\"_blank\">Markarian 421</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O37"
+    },
+    "ra": {
+      "decimal": 253.4820444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Markarian_501\" target=\"_blank\">Markarian 501</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O38"
+    },
+    "ra": {
+      "decimal": 32.094
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_821\" target=\"_blank\">NGC 821</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O39"
+    },
+    "ra": {
+      "decimal": 40.1066666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_1023\" target=\"_blank\">NGC 1023</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O40"
+    },
+    "ra": {
+      "decimal": 41.5844444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_1097\" target=\"_blank\">NGC 1097</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O41"
+    },
+    "ra": {
+      "decimal": 49.9788888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_1277\" target=\"_blank\">NGC 1277</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O42"
+    },
+    "ra": {
+      "decimal": 65.0017866667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_1566\" target=\"_blank\">NGC 1566</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O43"
+    },
+    "ra": {
+      "decimal": 138.1083296444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+2778\" target=\"_blank\">NGC 2778</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O44"
+    },
+    "ra": {
+      "decimal": 139.8326857778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_2787\" target=\"_blank\">NGC 2787</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O45"
+    },
+    "ra": {
+      "decimal": 150.5068888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3079\" target=\"_blank\">NGC 3079</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O46"
+    },
+    "ra": {
+      "decimal": 151.3122222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3115\" target=\"_blank\">NGC 3115</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O47"
+    },
+    "ra": {
+      "decimal": 156.83
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3245\" target=\"_blank\">NGC 3245</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O48"
+    },
+    "ra": {
+      "decimal": 161.9384444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3377\" target=\"_blank\">NGC 3377</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O49"
+    },
+    "ra": {
+      "decimal": 162.0751111111
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3384\" target=\"_blank\">NGC 3384</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O50"
+    },
+    "ra": {
+      "decimal": 169.2620755556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3608\" target=\"_blank\">NGC 3608</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O51"
+    },
+    "ra": {
+      "decimal": 177.2237611556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+3894\" target=\"_blank\">NGC 3894</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O52"
+    },
+    "ra": {
+      "decimal": 179.4994813333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_3998\" target=\"_blank\">NGC 3998</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O53"
+    },
+    "ra": {
+      "decimal": 182.6448888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4151\" target=\"_blank\">NGC 4151</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O54"
+    },
+    "ra": {
+      "decimal": 184.8531824889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4261\" target=\"_blank\">NGC 4261</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O55"
+    },
+    "ra": {
+      "decimal": 185.0786622222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4291\" target=\"_blank\">NGC 4291</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O56"
+    },
+    "ra": {
+      "decimal": 185.9233475556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4342\" target=\"_blank\">NGC 4342</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O57"
+    },
+    "ra": {
+      "decimal": 186.0069511111
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4350\" target=\"_blank\">NGC 4350</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O58"
+    },
+    "ra": {
+      "decimal": 186.9526666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Eyes_Galaxies\" target=\"_blank\">NGC 4438 (Eyes Galaxies)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O59"
+    },
+    "ra": {
+      "decimal": 187.25
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4459\" target=\"_blank\">NGC 4459</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O60"
+    },
+    "ra": {
+      "decimal": 187.4673333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4473\" target=\"_blank\">NGC 4473</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O61"
+    },
+    "ra": {
+      "decimal": 187.6421555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4486B\" target=\"_blank\">NGC 4486B</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O62"
+    },
+    "ra": {
+      "decimal": 189.12
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4564\" target=\"_blank\">NGC 4564</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O63"
+    },
+    "ra": {
+      "decimal": 189.4433333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_58\" target=\"_blank\">NGC 4579 (Messier 58)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O64"
+    },
+    "ra": {
+      "decimal": 189.9984444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4596\" target=\"_blank\">NGC 4596</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O65"
+    },
+    "ra": {
+      "decimal": 192.1595555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4697\" target=\"_blank\">NGC 4697</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O66"
+    },
+    "ra": {
+      "decimal": 192.9635185333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4742\" target=\"_blank\">NGC 4742</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O67"
+    },
+    "ra": {
+      "decimal": 193.6953196
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4791\" target=\"_blank\">NGC 4791</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O68"
+    },
+    "ra": {
+      "decimal": 194.5563348444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+4849\" target=\"_blank\">NGC 4849</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O69"
+    },
+    "ra": {
+      "decimal": 195.036
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4889\" target=\"_blank\">NGC 4889 (Caldwell 35)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O70"
+    },
+    "ra": {
+      "decimal": 196.3722222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_4945\" target=\"_blank\">NGC 4945 (Caldwell 83)</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O71"
+    },
+    "ra": {
+      "decimal": 198.3722222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_5033\" target=\"_blank\">NGC 5033</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O72"
+    },
+    "ra": {
+      "decimal": 226.5034769778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+5845\" target=\"_blank\">NGC 5845</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O73"
+    },
+    "ra": {
+      "decimal": 248.1420888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_6251\" target=\"_blank\">NGC 6251</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O74"
+    },
+    "ra": {
+      "decimal": 319.6466666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_7052\" target=\"_blank\">NGC 7052</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O75"
+    },
+    "ra": {
+      "decimal": 345.2663733333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/NGC_7457\" target=\"_blank\">NGC 7457</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O76"
+    },
+    "ra": {
+      "decimal": 133.7173333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/OJ_287\" target=\"_blank\">OJ 287</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O77"
+    },
+    "ra": {
+      "decimal": 80.7577064889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/PKS_0521-365\" target=\"_blank\">PKS 0521-365</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O78"
+    },
+    "ra": {
+      "decimal": 87.6803133778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=PKS+0548-322\" target=\"_blank\">PKS 0548-322</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O79"
+    },
+    "ra": {
+      "decimal": 331.0784538222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=PKS+2201%2B044\" target=\"_blank\">PKS 2201+044</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O80"
+    },
+    "ra": {
+      "decimal": 136.6366666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Q0906%2B6930\" target=\"_blank\">Q0906+6930</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O81"
+    },
+    "ra": {
+      "decimal": 172.9793333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/RX_J1131-1231\" target=\"_blank\">RX J1131-1231</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O82"
+    },
+    "ra": {
+      "decimal": 266.4279595556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Sagittarius_A*\" target=\"_blank\">Sagittarius A*</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O83"
+    },
+    "ra": {
+      "decimal": 212.0962944
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://simbad.u-strasbg.fr/simbad/sim-id?Ident=SDSS+J140821.67%2B025733.2\" target=\"_blank\">SDSS J140821.67+025733.2</a> (Supermassive Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O84"
+    },
+    "ra": {
+      "decimal": 148.982
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_82\" target=\"_blank\">Messier 82 (Cigar Galaxy)</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O85"
+    },
+    "ra": {
+      "decimal": 266.4265777778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GCIRS_13E\" target=\"_blank\">GCIRS 13E</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O86"
+    },
+    "ra": {
+      "decimal": 17.6253333333
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/HLX-1\" target=\"_blank\">HLX-1</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O87"
+    },
+    "ra": {
+      "decimal": 148.9722666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/M82_X-1\" target=\"_blank\">M82 X-1</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O88"
+    },
+    "ra": {
+      "decimal": 322.5092444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_15\" target=\"_blank\">NCG 7078 (Messier 15)</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O89"
+    },
+    "ra": {
+      "decimal": 10.0980198222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Messier_110\" target=\"_blank\">NGC 205 (Messier 110)</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O90"
+    },
+    "ra": {
+      "decimal": 11.8966666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Sculptor_Galaxy\" target=\"_blank\">NGC 253 (Sculptor Galaxy)</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O91"
+    },
+    "ra": {
+      "decimal": 23.4723111111
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Triangulum_Galaxy\" target=\"_blank\">NGC 598 (Triangulum Galaxy)</a> (Intermediate Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O92"
+    },
+    "ra": {
+      "decimal": 265.9936888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Great_Annihilator\" target=\"_blank\">1E1740.7-2942 (Great Annihilator)</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O93"
+    },
+    "ra": {
+      "decimal": 235.75
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/4U_1543-475\" target=\"_blank\">4U 1543-475</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O94"
+    },
+    "ra": {
+      "decimal": 95.6979644444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/A0620-00\" target=\"_blank\">A0620-00</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O95"
+    },
+    "ra": {
+      "decimal": 299.5963375556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Cygnus_X-1\" target=\"_blank\">Cygnus X-1</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O96"
+    },
+    "ra": {
+      "decimal": 308.1145777778
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/Cygnus_X-3\" target=\"_blank\">Cygnus X-3</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O97"
+    },
+    "ra": {
+      "decimal": 65.4400888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GRO_J0422%2B32\" target=\"_blank\">GRO J0422+32</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O98"
+    },
+    "ra": {
+      "decimal": 253.5006222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GRO_J1655-40\" target=\"_blank\">GRO J1655-40</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O99"
+    },
+    "ra": {
+      "decimal": 171.6182222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GRS_1124-683\" target=\"_blank\">GRS 1124-683</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O100"
+    },
+    "ra": {
+      "decimal": 288.8015555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GRS_1915%2B105\" target=\"_blank\">GRS 1915+105</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O101"
+    },
+    "ra": {
+      "decimal": 300.7203555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GS_2000%2B25\" target=\"_blank\">GS 2000+25</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O102"
+    },
+    "ra": {
+      "decimal": 255.72
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/GX_339-4\" target=\"_blank\">GX 339-4</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O103"
+    },
+    "ra": {
+      "decimal": 274.2834746222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/HR_6819\" target=\"_blank\">HR 6819</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O104"
+    },
+    "ra": {
+      "decimal": 257.2855555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/IGR_J17091-3624\" target=\"_blank\">IGR J17091-3624</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O105"
+    },
+    "ra": {
+      "decimal": 92.9681168889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/LB-1\" target=\"_blank\">LB-1</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O106"
+    },
+    "ra": {
+      "decimal": 23.4016888889
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/M33_X-7\" target=\"_blank\">M33 X-7</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O107"
+    },
+    "ra": {
+      "decimal": 62.7659466667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/SN_1997D\" target=\"_blank\">SN 1997D</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O108"
+    },
+    "ra": {
+      "decimal": 287.9702666667
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/SS_433\" target=\"_blank\">SS 433</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O109"
+    },
+    "ra": {
+      "decimal": 306.0170222222
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/V404_Cygni\" target=\"_blank\">V404 Cygni</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O110"
+    },
+    "ra": {
+      "decimal": 169.548
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/XTE_J1118%2B480\" target=\"_blank\">XTE J1118+480</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O111"
+    },
+    "ra": {
+      "decimal": 237.7612444444
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/XTE_J1550%E2%80%93564\" target=\"_blank\">XTE J1550–564</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O112"
+    },
+    "ra": {
+      "decimal": 252.5043555556
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/XTE_J1650-500\" target=\"_blank\">XTE J1650-500</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  },
+  {
+    "target": {
+      "name": "O113"
+    },
+    "ra": {
+      "decimal": 274.8461523111
+    },
+    "dec": {
+      "decimal": 2
+    },
+    "html": "<a href=\"https://en.wikipedia.org/wiki/V4641_Sagittarii\" target=\"_blank\">V4641 Sagittarii</a> (Stellar Black Hole)",
+    "colour": "rgb(179,0,255)"
+  }
+]

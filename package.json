@@ -15,6 +15,7 @@
     "sqlite3": "^5.0.2"
   },
   "dependencies": {
+    "csv": "^6.0.5",
     "node-static": "^0.7.11"
   }
 }
