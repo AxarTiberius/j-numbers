@@ -59,16 +59,22 @@ async.parallel([
       var status = ''
       var dec_text = ''
       var dec_dec = 0
+      var href = ''
+      var notes = ''
       switch (solarSystemName) {
         case 'J055520':
           // SENTINEL
           dec_dec = 7.2425
           status = 'FOUND'
+          href = 'https://en.wikipedia.org/wiki/Betelgeuse'
+          notes = 'Betelgeuse, Orion (Red Supergiant)'
           break;
         case 'J164710':
           // VIDETTE
           dec_dec = -31.93
           status = 'FOUND'
+          href = 'https://en.wikipedia.org/wiki/CXOU_J164710.2%E2%88%92455216'
+          notes = 'CXOU J164710.2−455216, Ara (Magnetar)'
           break;
       }
       rows.push({
@@ -85,8 +91,8 @@ async.parallel([
         RADec: ra_dec,
         isAnom: isAnom ? 'YES' : '',
         status: status,
-        href: '',
-        notes: ''
+        href: href,
+        notes: notes
       })
     })
 
